@@ -1,0 +1,4 @@
+1er comando node index.js para que empieze el bot
+
+2do comando en el url del navegador cambiar la date y time por algo proximo ala fecha donde se haga la prueba
+http://localhost/billar_app/public/api/mesas/disponibilidad?date=2026-05-28&time=20:00:00
